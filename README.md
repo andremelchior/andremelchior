@@ -20,8 +20,10 @@
   
   <br>
   
+  ### Status Spotify:
+  
   <a href="https://github.com/andremelchior">
-  <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=bnshjpkqphym5n0tbg5btvvhq&cover_image=true&theme=novatorem">
+  <img height="130em" src="https://spotify-github-profile.vercel.app/api/view?uid=bnshjpkqphym5n0tbg5btvvhq&cover_image=true&theme=novatorem">
     
   
 </div>
