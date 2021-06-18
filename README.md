@@ -6,7 +6,7 @@
   <a href="https://github.com/andremelchior">
   <img width="300em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&&layout=compact&hide=shell&theme=midnight-purple"/>
   <a href="https://github.com/andremelchior">
-  <img width="130em" height="70%" src="https://spotify-github-profile.vercel.app/api/view?uid=bnshjpkqphym5n0tbg5btvvhq&cover_image=true&theme=default">
+  <img width="130em" height="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=bnshjpkqphym5n0tbg5btvvhq&cover_image=true&theme=default">
     
 </div>
   
