@@ -1,6 +1,6 @@
 ## Olá 👋 Eu sou o André Melchior!
 
-<div style="display: inline">
+<div>
   <a href="https://github.com/andremelchior">
   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/andremelchior">
@@ -17,8 +17,6 @@
   <a href="https://www.instagram.com/andre_melchior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)
-  
-  <br>
   
   ### Status Spotify:
   
