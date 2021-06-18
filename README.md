@@ -2,11 +2,11 @@
 
 <div style="display: inline">
   <a href="https://github.com/andremelchior">
-  <img width="300em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/andremelchior">
-  <img width="300em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&&layout=compact&hide=shell&theme=midnight-purple"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&&layout=compact&hide=shell&theme=midnight-purple"/>
   <a href="https://github.com/andremelchior">
-  <img width="150em" height="20%" src="https://spotify-github-profile.vercel.app/api/view?uid=bnshjpkqphym5n0tbg5btvvhq&cover_image=true&theme=compact">
+  <img width="150em" height="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=bnshjpkqphym5n0tbg5btvvhq&cover_image=true&theme=novatorem">
     
 </div>
   
