@@ -2,11 +2,9 @@
 
 <div>
   <a href="https://github.com/andremelchior">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&&layout=compact&hide=shell&theme=dark"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&&layout=compact&hide=shell&theme=algolia"/>
  
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andremelchior)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
   
   ##
