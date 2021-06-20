@@ -52,7 +52,8 @@
   ⠀
    
   ### Embedded Systems Skills:
-    <img align="center" alt="Arduino" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"><br>
+    
+  <img align="center" alt="Arduino" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"><br>
     ⠀
     
   ### Learning:
