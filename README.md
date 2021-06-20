@@ -27,7 +27,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/andrassynth" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andre_melchior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andre.melchior@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%0072C6?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andre.melchior@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)
   
