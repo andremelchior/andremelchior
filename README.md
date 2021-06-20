@@ -21,7 +21,7 @@
   - Trabalhando atualmente na ANC Company;
   - Estudando 3° Módulo de Desenvolvimento de Sistemas na Etec JK;
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
 
   ### Front-End Skills:
   <img align="center" alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,15 +40,15 @@
 
   ### Database Skills:
     
-  <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Firebase Database" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.jpg">
+  <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Firebase Database" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.ico">
     
   ### Aprendendo:
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 
-</div>
+</div><br>
   
   ### Redes Sociais:
   
