@@ -35,8 +35,8 @@
   <img align="center" alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">⠀
   <img align="center" alt="CPlusPlus" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
   <img align="center" alt="CSharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">⠀
-  <img align="center" alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">⠀
-  <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">⠀
+  <img align="center" alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 
   ### Database Skills:
     
@@ -45,7 +45,7 @@
   <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.ico">
     
   ### Learning:
-  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">⠀
   <img align="center" alt="Ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 
 </div><br>
