@@ -32,7 +32,7 @@
   <img align="center" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">⠀
   <img align="center" alt="jQuery" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">⠀
   <img align="center" alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">⠀
-  <img align="center" alt="ReactJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br>
+  <img align="center" alt="ReactJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    ⠀
 
   ### Back-End Skills:
@@ -41,14 +41,14 @@
   <img align="center" alt="CPlusPlus" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
   <img align="center" alt="CSharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">⠀
   <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">⠀
-  <img align="center" alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"><br>
+  <img align="center" alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
    ⠀
 
   ### Database Skills:
     
   <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">⠀
   <img align="center" alt="Firebase Database" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">⠀
-  <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.ico"><br>
+  <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.ico">
   ⠀
     
   ### Learning:
@@ -61,12 +61,13 @@
   <div>
     
   ### Social Networks:
-  
+  ⠀
   <a href="https://www.linkedin.com/in/andr%C3%A9-melchior-737302212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/andrassynth" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andre_melchior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andre.melchior@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+    ⠀
  
   ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)
   
