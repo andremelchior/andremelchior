@@ -47,8 +47,8 @@
   ### Database Skills:
     
   <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">⠀
-  <img align="center" alt="Firebase Database" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">⠀
-  <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.ico"><br>
+  <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.ico">⠀
+  <img align="center" alt="Firebase Database" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"><br>
   ⠀
    
   ### Embedded Systems Skills:
