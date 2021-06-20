@@ -10,6 +10,14 @@
   ##
   
 <div style="display: inline_block">
+  
+  ### Sobre mim:
+  
+  - Tenho 18 anos;
+  - Desenvolvedor a 2 anos;
+  - Trabalhando atualmente na ANC Company;
+  - Estudando 3° Módulo de Desenvolvimento de Sistemas na Etec JK;
+  
   <a href="https://www.linkedin.com/in/andr%C3%A9-melchior-737302212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/andrassynth" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
