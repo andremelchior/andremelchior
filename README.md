@@ -21,6 +21,7 @@
   - Trabalhando atualmente na ANC Company;
   - Estudando 3° Módulo de Desenvolvimento de Sistemas na Etec JK;
   
+ </div>
   
   <div style="display: inline_block">
 
@@ -52,9 +53,9 @@
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">⠀
   <img align="center" alt="Ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 
-</div><br>
+  </div><br>
   
-  
+  <div>
   ### Social Networks:
   
   <a href="https://www.linkedin.com/in/andr%C3%A9-melchior-737302212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
