@@ -50,6 +50,10 @@
   <img align="center" alt="Firebase Database" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">⠀
   <img align="center" alt="SQLite" height="40" src="https://github.com/sqlite/sqlite/blob/master/art/sqlite370.ico"><br>
   ⠀
+   
+  ### Embedded Systems Skills:
+    <img align="center" alt="Arduino" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"><br>
+    ⠀
     
   ### Learning:
     
