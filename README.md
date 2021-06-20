@@ -70,8 +70,7 @@
     ⠀
  
   ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)<br>
-  
-    
+  ⠀
   ### Status Spotify:
   ⠀
   <a href="https://github.com/andremelchior">
