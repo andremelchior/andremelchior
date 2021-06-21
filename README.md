@@ -60,6 +60,7 @@
     
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">⠀
   <img align="center" alt="Ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Premier" height="40" src="https://github.com/devicons/devicon/tree/master/icons/premierepro">
 
   </div><br>
   
