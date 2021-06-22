@@ -62,7 +62,7 @@
   <img align="center" alt="Ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">⠀
   <img align="center" alt="AbPremier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
   <img align="center" alt="AbAfterEffects" height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
-
+https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg
 
   </div><br>
   
