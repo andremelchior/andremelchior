@@ -19,7 +19,7 @@
   - Tenho 18 anos;
   - Desenvolvedor a 2 anos;
   - Trabalhando atualmente na ANC Company;
-  - Estudando 3° Módulo de Desenvolvimento de Sistemas na Etec JK;
+  - Estudando 3° Módulo de Desenvolvimento de Sistemas na Etec JK.
   
  </div><br>
   
