@@ -60,14 +60,7 @@
   <a href="https://www.instagram.com/andre_melchior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andre.melchior@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a><br>
 
-    ⠀
- 
+
   ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)<br>
-  ⠀
-  ### Status Spotify:
-  ⠀
-  <a href="https://github.com/andremelchior">
-  <img height="120em" src="https://spotify-github-profile.vercel.app/api/view?uid=bnshjpkqphym5n0tbg5btvvhq&cover_image=true&theme=novatorem">
-    
-  
+
 </div>
