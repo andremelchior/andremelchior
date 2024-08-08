@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=25&pause=1000&color=9745F5&center=true&vCenter=true&width=435&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CWeb+Developer%3CEthical+Hacker%3C+Audiovisual+Student%3CFGC+Esports+Caster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=9745F5&width=435&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CFrontend+%26+Backend+Developer%3CEthical+Hacker+%26+Penetration+Tester%3C+Audiovisual+Student%3CFGC+Esports+Caster)](https://git.io/typing-svg)
 
 <div>
   
