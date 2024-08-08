@@ -1,6 +1,4 @@
-## Olá 👋 Eu sou o André Melchior!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&separator=%3C&lines=printf(%22Hello%2C+World!+I'm+Andr%C3%A9.%22);%3CDeveloper+and+Pentester%3CFGC+Esports+Caster)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CWeb+Developer%3CEthical+Hacker%3C+Audiovisual+Student%3CFGC+Esports+Caster)](https://git.io/typing-svg)
 
 <div>
   
