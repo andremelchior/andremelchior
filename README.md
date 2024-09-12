@@ -10,14 +10,14 @@
 
 </div>
   
-  ## 
+  ## Formação
 
   • Desenvolvimento de Sistemas - Etec JK
   
 <div style="display: inline_block">
 
   
- </div><br>
+ </div>
   
   <div style="display: inline_block">
 
