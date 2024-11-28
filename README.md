@@ -38,12 +38,11 @@
   <img align="center" alt="PHP" height="40" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
   <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="40" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/mysqlworkbench.png">⠀
-  <img align="center" alt="SQLite" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg">⠀
   <img align="center" alt="Firebase Database" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
   ### Linux Skills:
 
-  <img align="center" alt="Kali Linux" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png">
+  <img align="center" alt="Kali Linux" height="40" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw">
   <img align="center" alt="Debian" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg">
   <img align="center" alt="Ubuntu" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg">⠀
   <img align="center" alt="Fedora" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fedora/fedora-plain.svg"><br>
