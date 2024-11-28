@@ -10,10 +10,6 @@
 
 </div>
   
-  ## Formação
-
-  • Desenvolvimento de Sistemas - Etec JK
-  
 <div style="display: inline_block">
 
   
@@ -60,10 +56,11 @@
     
   ### Social Networks:
   ⠀
-  <br><a href="https://www.linkedin.com/in/andr%C3%A9-melchior-737302212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/an.dras_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andre.melchior@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a><br>
-
+  <br>
+  <a href="https://www.youtube.com/@andrasbh" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/andrasbh" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andrasbh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andremelchior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)<br>
 
