@@ -17,7 +17,7 @@
   
   <div style="display: inline_block">
 
-  ### Front-End Skills:
+  ### Frontend Skills:
     
   <img align="center" alt="HTML5" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⠀
   <img align="center" alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
@@ -26,7 +26,7 @@
   <img align="center" alt="JQuery" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg">⠀
   
 
-  ### Back-End Skills:
+  ### Backend Skills:
     
   <img align="center" alt="C" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">⠀
   <img align="center" alt="CPlusPlus" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
