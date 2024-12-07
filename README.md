@@ -31,8 +31,8 @@
   <img align="center" alt="C" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">⠀
   <img align="center" alt="CPlusPlus" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
   <img align="center" alt="CSharp" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  &nbsp;<img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
-  &nbsp;<img align="center" alt="Java" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  &nbsp;&nbsp;<img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
+  &nbsp;&nbsp;<img align="center" alt="Java" height="60" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png">
   &nbsp;<img align="center" alt="MySQL" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/mysqlworkbench.png">⠀
   <img align="center" alt="Firebase Database" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
