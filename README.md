@@ -32,14 +32,14 @@
   <img align="center" alt="CPlusPlus" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
   <img align="center" alt="CSharp" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   &nbsp;&nbsp;<img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
-  &nbsp;&nbsp;<img align="center" alt="Java" height="65" src="https://images.vexels.com/content/166401/preview/java-programming-language-icon-05bb98.png">
+  &nbsp;&nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
   &nbsp;<img align="center" alt="MySQL" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/mysqlworkbench.png">⠀
   <img align="center" alt="Firebase Database" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
   ### Linux Skills:
 
   <img align="center" alt="Kali Linux" height="60" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw">
-  <img align="center" alt="Debian" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg">
+  &nbsp;&nbsp;<img align="center" alt="Debian" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg">
   <img align="center" alt="Ubuntu" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg">⠀
   <img align="center" alt="Fedora" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fedora/fedora-plain.svg"><br>
   
