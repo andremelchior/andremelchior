@@ -46,7 +46,7 @@
   ### Learning:
 
   <img align="center" alt="React Native" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">⠀
-  <img align="center" alt="Laravel" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Laravel" style="margin: 0 10px 0 0" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Adobe Premier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
   <img align="center" alt="Adobe AfterEffects" height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">⠀
