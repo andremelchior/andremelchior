@@ -31,9 +31,9 @@
   <img align="center" alt="C" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">⠀
   <img align="center" alt="CPlusPlus" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
   <img align="center" alt="CSharp" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
-  <img align="center" alt="Java" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/mysqlworkbench.png">⠀
+  &nbsp;<img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
+  &nbsp;<img align="center" alt="Java" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  &nbsp;<img align="center" alt="MySQL" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/mysqlworkbench.png">⠀
   <img align="center" alt="Firebase Database" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
   ### Linux Skills:
@@ -47,8 +47,8 @@
 
   <img alt="React Native" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">⠀
   <img alt="Laravel" class="laravel-icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
-  &nbsp;&nbsp;<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;<img alt="Adobe Premier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
+  &nbsp;&nbsp;&nbsp;<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;&nbsp;&nbsp;<img alt="Adobe Premier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
   &nbsp;<img alt="Adobe AfterEffects" height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">⠀
 
   </div><br>
