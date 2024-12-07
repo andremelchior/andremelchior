@@ -45,11 +45,18 @@
   
   ### Learning:
 
-  <img align="center" alt="React Native" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">⠀
-  <img align="center" alt="Laravel" style="margin: 0px 70px 0px 0px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Adobe Premier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
-  <img align="center" alt="Adobe AfterEffects" height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">⠀
+  <style>
+    .laravel-icon {
+      margin: 0px 70px 0px 0px;
+    }
+  </style>
+
+
+  <img alt="React Native" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">⠀
+  <img alt="Laravel" class="laravel-icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Adobe Premier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
+  <img alt="Adobe AfterEffects" height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">⠀
 
   </div><br>
   
