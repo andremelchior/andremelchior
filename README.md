@@ -23,9 +23,8 @@
   <img align="center" alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
   <img align="center" alt="JS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 &nbsp;&nbsp;&nbsp;<img align="center" alt="TS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
-  &nbsp;&nbsp;<img align="center" alt="Bootstrap" height="80" src="https://img.icons8.com/?size=512&id=84710&format=png">
-  &nbsp;&nbsp;<img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">⠀
-  <img align="center" alt="JQuery" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg">⠀
+  &nbsp;&nbsp;<img align="center" alt="Bootstrap" height="78" src="https://img.icons8.com/?size=512&id=84710&format=png">
+  &nbsp;&nbsp;<img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg"><br>
 
   ### Backend Skills:
     
@@ -33,10 +32,17 @@
   <img align="center" alt="CPlusPlus" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
   <img align="center" alt="CSharp" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   &nbsp;&nbsp;&nbsp;<img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
+  
   &nbsp;<img align="center" alt="MySQL" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/mysqlworkbench.png">⠀
   <img align="center" alt="Firebase Database" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
+  ### Mobile Skills:
+  <img alt="React Native" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
+  
+  &nbsp;&nbsp;<img align="center" alt="Kotlin" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg"><br>
+  
   ### Linux Skills:
 
   <img align="center" alt="Kali Linux" height="60" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw">
@@ -46,7 +52,6 @@
   
   ### Learning:
 
-  <img alt="React Native" height="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">⠀
   <img alt="Laravel" class="laravel-icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
   &nbsp;&nbsp;&nbsp;<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;<img alt="Adobe Premier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
