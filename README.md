@@ -36,9 +36,10 @@
   <img align="center" alt="Firebase Database" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
   ### Mobile Skills:
-  <img alt="React Native" height="60" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
-  &nbsp;&nbsp;<img align="center" alt="Kotlin" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg"><br>
+  <img alt="React Native" height="65" align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+&nbsp;&nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
+&nbsp;&nbsp;<img align="center" alt="Kotlin" height="64" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg">
+<img align="center" alt="Android Studio" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg"><br>
   
   ### Linux Skills:
 
