@@ -23,8 +23,8 @@
   <img align="center" alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
   <img align="center" alt="JS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="TS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
-  &nbsp;&nbsp;<img align="center" alt="Bootstrap" height="79" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
-  &nbsp;&nbsp;<img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg"><br>
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="Bootstrap" height="79" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg"><br>
 
   ### Backend Skills:
     
@@ -68,5 +68,6 @@
   <a href="https://www.instagram.com/andrasbh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andremelchior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)<br>
 
 </div>
