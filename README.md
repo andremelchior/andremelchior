@@ -4,9 +4,7 @@
   
   ### GitHub Stats:
   
-  <a href="https://github.com/andremelchior">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&&layout=compact&hide=shell&theme=midnight-purple"/>
+
 
 </div>
   
@@ -68,6 +66,5 @@
   <a href="https://www.instagram.com/andrasbh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andremelchior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)<br>
 
 </div>
