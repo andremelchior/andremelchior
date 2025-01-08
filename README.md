@@ -1,22 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&width=435&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=9745F5&center=true&vCenter=true&width=1000&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster)](https://git.io/typing-svg)
 
-<div>
+<br>
   
-  ### GitHub Stats:
-  
-  <a href="https://github.com/andremelchior">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&&layout=compact&hide=shell&theme=midnight-purple"/>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745F5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117" />
 </div>
-  
-<div style="display: inline_block">
 
-  
- </div>
+<br><br>
+
   
   <div style="display: inline_block">
 
@@ -25,25 +20,27 @@
   <img align="center" alt="HTML5" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⠀
   <img align="center" alt="CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
   <img align="center" alt="JS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="TS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="TS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
   &nbsp;&nbsp;&nbsp;<img align="center" alt="Bootstrap" height="79" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg"><br>
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
+  &nbsp;&nbsp;<img align="center" alt="jQuery" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg"><br>
+
 
   ### Backend Skills:
-    
-  <img align="center" alt="C" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">⠀
-  <img align="center" alt="CPlusPlus" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">⠀
-  <img align="center" alt="CSharp" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="MySQL" height="70" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/mysqlworkbench.png">⠀
+
+  <img align="center" alt="PHP" height="60" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Laravel" height="58" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="CSharp" height="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="CPlusPlus" height="63" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="MySQL" height="65" src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png">&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Firebase Database" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
   ### Mobile Skills:
-<img alt="React Native" height="65" align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-<img alt="Expo" height="65" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
-&nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
-&nbsp;&nbsp;&nbsp;<img align="center" alt="Kotlin" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg">
-&nbsp;<img align="center" alt="Android Studio" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg"><br>
+  <img alt="React Native" height="65" align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  <img alt="Expo" height="65" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
+  &nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="Kotlin" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg">
+  &nbsp;<img align="center" alt="Android Studio" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg"> <br>
   
   ### Linux Skills:
 
@@ -51,13 +48,6 @@
   &nbsp;&nbsp;<img align="center" alt="Debian" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg">
   <img align="center" alt="Ubuntu" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg">⠀
   <img align="center" alt="Fedora" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fedora/fedora-plain.svg"><br>
-  
-  ### Learning:
-
-  <img alt="Laravel" class="laravel-icon" height="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
-  &nbsp;&nbsp;&nbsp;<img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;&nbsp;<img alt="Adobe Premier" height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">⠀
-  &nbsp;<img alt="Adobe AfterEffects" height="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">⠀
 
   </div><br>
   
