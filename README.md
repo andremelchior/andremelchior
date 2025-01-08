@@ -43,15 +43,7 @@
   <img alt="Expo" height="65" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
   &nbsp;<img align="center" alt="Java" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
   &nbsp;&nbsp;&nbsp;<img align="center" alt="Kotlin" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg">
-  &nbsp;<img align="center" alt="Android Studio" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg"> <br>
-  
-  ###  Linux Skills:
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Kali Linux" height="60" src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU=w240-h480-rw">
-  &nbsp;&nbsp;<img align="center" alt="Debian" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/debian/debian-original.svg">
-  <img align="center" alt="Ubuntu" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ubuntu/ubuntu-original.svg">⠀
-  <img align="center" alt="Fedora" height="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fedora/fedora-plain.svg"><br>
+  &nbsp;<img align="center" alt="Android Studio" height="65" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg">     <br>
 
   </div><br><br>
   
@@ -66,6 +58,3 @@
   ![Snake animation](https://github.com/andremelchior/andremelchior/blob/output/github-contribution-grid-snake.svg)<br>
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
-
