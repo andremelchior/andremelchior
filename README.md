@@ -8,9 +8,9 @@
   
 </div>
 
-  ####  Frontend Skills:
+  #### Frontend Skills:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img align="center" alt="HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⠀
   <img align="center" alt="CSS3" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
   <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,9 +19,9 @@
   &nbsp;&nbsp;<img align="center" alt="React" height="49" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
   &nbsp;<img align="center" alt="jQuery" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg"><br>
 
-  ####  Backend Skills:
+  #### Backend Skills:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img align="center" alt="PHP" height="43" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Laravel" height="43" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
   <img align="center" alt="CSharp" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
@@ -30,9 +30,9 @@
   <img align="center" alt="MySQL" height="50" src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png">&nbsp;&nbsp;
   <img align="center" alt="Firebase Database" height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
-  ####  Mobile Skills:
+  #### Mobile Skills:
 
-  &nbsp;&nbsp;
+  &nbsp;
   <img alt="React Native" height="53" align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
   <img alt="Expo" height="51" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
   &nbsp;<img align="center" alt="Java" height="53" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
