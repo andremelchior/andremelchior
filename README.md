@@ -8,9 +8,11 @@
   
 </div>
 
+<div>
+  
   #### Frontend Skills:
 
-  &nbsp;&nbsp;
+  &nbsp;
   <img align="center" alt="HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⠀
   <img align="center" alt="CSS3" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
   <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +23,7 @@
 
   #### Backend Skills:
 
-  &nbsp;&nbsp;
+  &nbsp;
   <img align="center" alt="PHP" height="43" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Laravel" height="43" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
   <img align="center" alt="CSharp" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
@@ -32,11 +34,13 @@
 
   #### Mobile Skills:
   
-  &nbsp;<img alt="React Native" height="53" align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-  <img alt="Expo" height="51" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
+  <img alt="React Native" height="52" align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  <img alt="Expo" height="50" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
   <img align="center" alt="Java" height="53" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
   &nbsp;<img align="center" alt="Kotlin" height="54" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg">
-  &nbsp;<img align="center" alt="Android Studio" height="52" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Android Studio" height="52" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg">
+
+  </div>
 
   <br><br>
   
