@@ -4,37 +4,34 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1100&color=9745F5&center=true&vCenter=true&width=1000&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster)](https://git.io/typing-svg)
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745F5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="46%" height="175px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745F5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  <img width="36%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117" />
   
 </div>
 
   ####  Frontend Skills:
 
-   
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⠀
-  <img align="center" alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
-  <img align="center" alt="JS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="TS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="Bootstrap" height="69" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
-  &nbsp;&nbsp;&nbsp;<img align="center" alt="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
-  &nbsp;&nbsp;<img align="center" alt="jQuery" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg"><br>
+  <img align="center" alt="HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">⠀
+  <img align="center" alt="CSS3" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">⠀
+  <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="TS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
+  &nbsp;&nbsp;&nbsp;<img align="center" alt="Bootstrap" height="58" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
+  &nbsp;&nbsp;<img align="center" alt="React" height="49" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
+  &nbsp;<img align="center" alt="jQuery" height="49" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg"><br>
 
   ####  Backend Skills:
 
-   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="PHP" height="50" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Laravel" height="48" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="CSharp" height="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="CPlusPlus" height="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="MySQL" height="55" src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Firebase Database" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
+  <img align="center" alt="PHP" height="43" src="https://github.com/PHPTCloud/PHPTCloud/raw/main/assets/php.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Laravel" height="43" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="CSharp" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="CPlusPlus" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="MySQL" height="50" src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Firebase Database" height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg"><br>
 
   ####  Mobile Skills:
 
-   
   &nbsp;&nbsp;
   <img alt="React Native" height="57" align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
   <img alt="Expo" height="56" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
