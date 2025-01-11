@@ -29,7 +29,7 @@
 
   &nbsp;
   <img align="center" alt="PHP" height="45" src="https://media.discordapp.net/attachments/715368219690532966/1327646587089981450/php.png?ex=6783d2bc&is=6782813c&hm=41e2daefbc30909609fe9f581d4bf603cf32ef3c7b7b05252d34c9461005bbaa&=&format=webp&quality=lossless&width=509&height=509">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Laravel" height="43" src="https://media.discordapp.net/attachments/715368219690532966/1327650321664835605/laravel.png?ex=6783d637&is=678284b7&hm=7d697900fb2be886c32c47c3a7f635320e56f43fc4c591915bde47c31efb7426&=&format=webp&quality=lossless&width=509&height=509">&nbsp;&nbsp;
+  <img align="center" alt="Laravel" height="43" src="https://media.discordapp.net/attachments/715368219690532966/1327662774033190992/laravel_1.png?ex=6783e1d0&is=67829050&hm=22ef05ea05e5c7d58b569f7fed3e16f620c15ff870bb03aedc1d72a36f90bcca&=&format=webp&quality=lossless&width=509&height=509">&nbsp;&nbsp;
   <img align="center" alt="CSharp" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="CPlusPlus" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;&nbsp;
