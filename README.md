@@ -43,7 +43,16 @@
   <img align="center" alt="Android Studio" height="52" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg">
 
   </div>
+  <br>
+  
+  #### Technical Background:
 
+  - <b>Desenvolvimento de Sistemas</b> - Etec JK‎ &nbsp;&nbsp;<img align="center" alt="EtecJK" height="25" src="https://eventos.grupoaeon.com.br/images/logos/logo__etec_br.webp">
+  - <b>CCNA V7</b> - SENAI Manuel Garcia Filho ‎&nbsp;<img align="center" alt="Senai" height="17" src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png">
+  - <b>Técnicas de Invasão</b> - Hacker Society &nbsp;&nbsp;<img align="center" alt="Hacker Society_" height="27" src="https://assets-v2.circle.so/mxf29sotx47hlu82h5eojgzpcl61"><br>
+  - <b>Introdução ao Pentest</b> - Desec Security &nbsp;&nbsp;<img align="center" alt="Desec" height="25" src="https://academy.desecsecurity.com/imgs/logo_desec_responsive.png">
+  - <b>Técnicas de Invasão</b> - Fragax Technology ‎<img align="center" alt="TDI Fragax" height="35" src="https://static-media.hotmart.com/4lilxHnbsci9NwsXm0J8ecM6vng=/filters:format(png)/club-files/membership_area/61450158-dc1c-477c-b5f8-4a3f4063cfc2/logo-tecnicasdeinvasao.png">
+  
   <br><br>
   
   <div align="center">
