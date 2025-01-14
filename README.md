@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1100&color=9745F5&center=true&vCenter=true&width=1000&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster)](https://git.io/typing-svg)
 
-  <img width="50%" height="189px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  <img width="50%" height="189px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
   <img width="47%" height="189px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
   
 </div>
