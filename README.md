@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1100&color=9745F5&center=true&vCenter=true&width=1000&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster)](https://git.io/typing-svg)
 
-  <img width="51%" height="191px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745F5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  <img width="47%" height="191px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
+  <img width="50%" height="189px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745F5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  <img width="47%" height="189px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
   
 </div>
 
@@ -53,7 +53,7 @@
   - <b>Introdução ao Pentest</b> - Desec Security &nbsp;&nbsp;<img align="center" alt="Desec" height="25" src="https://academy.desecsecurity.com/imgs/logo_desec_responsive.png">
   - <b>Técnicas de Invasão</b> - Fragax Technology ‎<img align="center" alt="TDI Fragax" height="35" src="https://static-media.hotmart.com/4lilxHnbsci9NwsXm0J8ecM6vng=/filters:format(png)/club-files/membership_area/61450158-dc1c-477c-b5f8-4a3f4063cfc2/logo-tecnicasdeinvasao.png">
   
-  <br><br>
+  <br>
   
   <div align="center">
       ⠀
