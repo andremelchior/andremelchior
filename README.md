@@ -17,8 +17,8 @@
   <img align="center" alt="CSS3" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;<img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;<img align="center" alt="TS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg">
-  &nbsp;&nbsp;<img align="center" alt="Sass" height="46" src="https://media.discordapp.net/attachments/715368219690532966/1327631720945684552/sass.png?ex=6783c4e4&is=67827364&hm=1163848c5020097df8940bf9eb18694a8c594464fb1a4f2e6fa053184d76a458&=&format=webp&quality=lossless&width=350&height=350">
-  &nbsp;&nbsp;<img align="center" alt="Less" height="46" src="https://media.discordapp.net/attachments/715368219690532966/1327631750901399652/less_1.png?ex=6783c4eb&is=6782736b&hm=2e39e2032dbdedae055e05fbcb394d8596388919ae2d76da94cc5ea915c732f0&=&format=webp&quality=lossless&width=509&height=509">
+  &nbsp;&nbsp;<img align="center" alt="Sass" height="46" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/sass/sass.svg">
+  &nbsp;&nbsp;<img align="center" alt="Less" height="46" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/less/less.svg">
   &nbsp;&nbsp;<img align="center" alt="Bootstrap" height="57" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
   &nbsp;&nbsp;<img align="center" alt="React" height="49" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
   &nbsp;<img align="center" alt="jQuery" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-plain-wordmark.svg"><br>
@@ -26,8 +26,8 @@
   #### Backend Skills:
 
   &nbsp;
-  <img align="center" alt="PHP" height="47" src="https://media.discordapp.net/attachments/715368219690532966/1327646587089981450/php.png?ex=6783d2bc&is=6782813c&hm=41e2daefbc30909609fe9f581d4bf603cf32ef3c7b7b05252d34c9461005bbaa&=&format=webp&quality=lossless&width=509&height=509">&nbsp;&nbsp;
-  <img align="center" alt="Laravel" height="46" src="https://media.discordapp.net/attachments/715368219690532966/1327662774033190992/laravel_1.png?ex=6783e1d0&is=67829050&hm=22ef05ea05e5c7d58b569f7fed3e16f620c15ff870bb03aedc1d72a36f90bcca&=&format=webp&quality=lossless&width=509&height=509">&nbsp;
+  <img align="center" alt="PHP" height="47" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/php/php.svg">&nbsp;&nbsp;
+  <img align="center" alt="Laravel" height="46" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/laravel/laravel.svg">&nbsp;
   <img align="center" alt="CSharp" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="CPlusPlus" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;&nbsp;
@@ -54,7 +54,7 @@
   - <b>Técnicas de Invasão</b> - Fragax Technology ‎<img align="center" alt="TDI Fragax" height="35" src="https://static-media.hotmart.com/4lilxHnbsci9NwsXm0J8ecM6vng=/filters:format(png)/club-files/membership_area/61450158-dc1c-477c-b5f8-4a3f4063cfc2/logo-tecnicasdeinvasao.png">
   
   <br>
-  
+
   <div align="center">
       ⠀
   <br>
