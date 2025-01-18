@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1100&color=9745F5&center=true&vCenter=true&width=1000&separator=%3C&lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster)](https://git.io/typing-svg)
 
   <img width="45%" height="175px" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  <img width="53%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117&langs_count=6" />
+  <img width="53%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745F5&text_color=FFFFFF&bg_color=0d1117&langs_count=7" />
   
 </div>
 
@@ -36,7 +36,7 @@
 
   #### Mobile Skills:
   
-  <img alt="React Native" height="54" align="center" src="https://media.discordapp.net/attachments/715368219690532966/1327657500073267212/react-native-1.png?ex=6783dce6&is=67828b66&hm=8495cd2032abc057720c064a312ef3315313a0ad7b9be70f00f98412faf434a5&=&format=webp&quality=lossless&width=635&height=509">
+  <img alt="React Native" height="54" align="center" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/265bd1eca4c71eba894ae500e162b7e172f18676/react-native-rocket/react_native-original-plain.svg">
   <img alt="Expo" height="50" align="center" src="https://cdn.creazilla.com/icons/3256562/file-type-expo-icon-md.png">
   <img align="center" alt="Java" height="53" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
   &nbsp;<img align="center" alt="Kotlin" height="54" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg">
