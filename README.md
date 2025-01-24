@@ -6,7 +6,7 @@
 </p>
 
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
+  <img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
 
   
 </div>
