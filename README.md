@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=82&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=81&section=header"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?lines=printf(%22Hello%2C+I'm+Andr%C3%A9!%22);%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster&font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=440&height=45&separator=%3C&size=23" />
