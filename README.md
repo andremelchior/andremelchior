@@ -48,10 +48,11 @@
   </div>
   <br>
   
-  #### Technical Background:
+  #### Academic Background:
 
-  - <b>Desenvolvimento de Sistemas</b> - Etec JK‎ &nbsp;&nbsp;<img align="center" alt="EtecJK" height="25" src="https://eventos.grupoaeon.com.br/images/logos/logo__etec_br.webp">
-  - <b>CCNA V7</b> - SENAI Manuel Garcia Filho ‎&nbsp;<img align="center" alt="Senai" height="17" src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png">
+  - <b>Superior em Desenvolvimento de Software Multiplataforma</b> - Fatec Luigi Papaiz &nbsp;&nbsp;<img align="center" alt="Fatec" height="24" src="https://media.discordapp.net/attachments/715368219690532966/1337611754217144391/fatec_text_only.png?ex=67a81385&is=67a6c205&hm=ff8f26b72e1d1df62dd6c5bb4e985008e3fdf4f8fccc10e4262bb2d548ea9a11&=&format=webp&quality=lossless&width=1195&height=509">
+  - <b>Técnico em Desenvolvimento de Sistemas</b> - Etec JK‎ &nbsp;&nbsp;<img align="center" alt="EtecJK" height="25" src="https://eventos.grupoaeon.com.br/images/logos/logo__etec_br.webp">
+  - <b>CCNA V7</b> - SENAI "Manuel Garcia Filho" ‎&nbsp;<img align="center" alt="Senai" height="17" src="https://logodownload.org/wp-content/uploads/2019/08/senai-logo.png">
   - <b>Técnicas de Invasão</b> - Hacker Society &nbsp;&nbsp;<img align="center" alt="Hacker Society_" height="27" src="https://assets-v2.circle.so/mxf29sotx47hlu82h5eojgzpcl61"><br>
   - <b>Introdução ao Pentest</b> - Desec Security &nbsp;&nbsp;<img align="center" alt="Desec" height="25" src="https://academy.desecsecurity.com/imgs/logo_desec_responsive.png">
   - <b>Técnicas de Invasão</b> - Fragax Technology ‎<img align="center" alt="TDI Fragax" height="35" src="https://static-media.hotmart.com/4lilxHnbsci9NwsXm0J8ecM6vng=/filters:format(png)/club-files/membership_area/61450158-dc1c-477c-b5f8-4a3f4063cfc2/logo-tecnicasdeinvasao.png">
