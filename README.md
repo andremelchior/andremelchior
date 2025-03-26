@@ -11,22 +11,17 @@
   
 </div>
 
-<div>
-
-  
   <div align="center">
 
   #
-  
-  <br>
-  
-  Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz e cursando técnico em **Desenvolvimento de Sistemas** na Etec JK.
-  Tenho foco em desenvolvimento **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Habilidades web em **HTML5**, **CSS3**, **JavaScript**,  **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** no desenvolvimento mobile.
     
-
+  Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz e cursando técnico em **Desenvolvimento de Sistemas** na Etec JK.
+  Tenho foco em desenvolvimento **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Habilidades web em **HTML5**, **CSS3**, **JavaScript**,  **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** para mobile.
   #
   
   </div>
+
+<div>
   
   #### Frontend Skills:
 
