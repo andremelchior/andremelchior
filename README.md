@@ -2,11 +2,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=70&section=header"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Hello%2C+I'm+Andr%C3%A9! (aka Andras)%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster&font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=440&height=45&separator=%3C&size=23" />
+<img src="https://readme-typing-svg.demolab.com?lines=Hello%2C+I'm+Andr%C3%A9! (aka Andras)%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster&font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=440&height=20&separator=%3C&size=21" />
 </p>
 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
+  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
 
   
 </div>
@@ -21,12 +21,8 @@
   <br>
   
   Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz e cursando técnico em **Desenvolvimento de Sistemas** na Etec JK.
-  Tenho foco em desenvolvimento **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Habilidades web em **HTML5**, **CSS3**, **JavaScript**,  **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** no desenvolvimento mobile nativo.
+  Tenho foco em desenvolvimento **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Habilidades web em **HTML5**, **CSS3**, **JavaScript**,  **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** no desenvolvimento mobile.
     
-  <a href="https://www.youtube.com/@andrasbh" target="_blank"><img height="24" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.twitch.tv/andrasbh" target="_blank"><img height="24" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/andrasbh" target="_blank"><img height="24" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andremelchior/" target="_blank"><img height="24" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   #
   
@@ -64,3 +60,11 @@
   <img align="center" alt="Android Studio" height="52" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg">
 
 #
+<div align="center">
+<br>
+  
+  <a href="https://www.youtube.com/@andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andremelchior/" target="_blank"><img height="27" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
