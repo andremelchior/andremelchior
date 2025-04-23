@@ -1,12 +1,12 @@
 <div align="center" >
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=68&section=header"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Hello%2C+I'm+Andr%C3%A9! (aka Andras)%3CFullstack+Developer%3CEthical+Hacker+%26+Pentester%3CAudiovisual+Enthusiast%3CFGC+Esports+Caster&font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=440&height=20&separator=%3C&size=21" />
-</p>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Andr%C3%A9+(aka+Andras);Fullstack+Developer;Ethical+Hacker+%26+Pentester;FGC+Esports+Caster)](https://git.io/typing-svg)
 
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  &nbsp;&nbsp;&nbsp;<img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
+  
+  <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="201rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
 
   
 </div>
@@ -16,7 +16,7 @@
   #
 
   Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz e cursando técnico em **Desenvolvimento de Sistemas** na Etec JK.
-  Tenho foco em desenvolvimento **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Habilidades web em **HTML5**, **CSS3**, **JavaScript**,  **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** para mobile.
+  Tenho foco em **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Habilidades web em **HTML5**, **CSS3**, **JavaScript**, **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** para mobile.
   #
   
   </div>
