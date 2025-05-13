@@ -11,12 +11,12 @@
   
 </div>
 
-  <div align="center">
+  <div align="justify">
 
   #
 
   Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz e cursando técnico em **Desenvolvimento de Sistemas** na Etec JK.
-  Tenho foco em **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Habilidades web em **HTML5**, **CSS3**, **JavaScript**, **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** para mobile.
+  Tenho maior foco em desenvolvimento **.NET** com **C#**, **ASP.NET** e **Entity Framework** para aplicações web e desktop. Possuo habilidades web em **HTML5**, **CSS3**, **Sass**, **JavaScript**, **PHP** e **React**, conhecimentos em **React Native** com **TypeScript** e **Expo** para mobile.
   #
   
   </div>
