@@ -6,17 +6,20 @@
 
   
   <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=10" />
+  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
 
   
 </div>
 
-  <div align="center">
+  <div>
 
   #
 
-  Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz, cursando técnico em **Desenvolvimento de Sistemas** na Etec JK e estudante de tecnologia no **Oracle Next Education**.
-  Tenho maior foco em desenvolvimento **.NET** com **C#**, **ASP.NET**, **Windows Forms** e **Entity Framework** para aplicações desktop e web. Possuo habilidades frontend em JavaScript com **React** e **Angular**, backend para web com **PHP** e criação de apps nativos utilizando **React Native** com **TypeScript** e **Expo**.
+  - Desenvolvedor Fullstack e apaixonado por .NET
+  - Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz
+  - Cursando técnico em **Desenvolvimento de Sistemas** na Etec JK
+  - Estudante de tecnologia no **Oracle Next Education**
+
   #
   
   </div>
