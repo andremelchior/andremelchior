@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=70&section=header"/>
 
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Andr%C3%A9+(aka+Andras);Fullstack+Developer;Ethical+Hacker+%26+Pentester;FGC+Esports+Caster)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Andr%C3%A9+(aka+Andras);Fullstack+Developer;FGC+Esports+Caster)](https://git.io/typing-svg)
 
   
   <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
@@ -15,10 +15,10 @@
 
   #
 
-  - Desenvolvedor Fullstack e apaixonado por .NET
-  - Estudante de superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz
-  - Cursando técnico em **Desenvolvimento de Sistemas** na Etec JK
-  - Estudante de tecnologia no **Oracle Next Education**
+  - 💻 Desenvolvedor **Fullstack** focado em tecnologias **.NET**
+  - 📚 Cursando superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz
+  - 🎓 Formado em técnico de **Desenvolvimento de Sistemas** na Etec JK
+  - ⚙️ Estudante de Especialização Tech Foundation em Back-End no **Oracle Next Education**
 
   #
   
@@ -42,12 +42,11 @@
   #### Backend Skills:
 
   &nbsp;
+  <img align="center" alt="CSharp" height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
+  <img align="center" alt="dotNET" height="44" src="https://github.com/user-attachments/assets/cdedfe30-f2d4-4853-b615-5d59d8ac8835">&nbsp;&nbsp;
+  <img align="center" alt="ASP.NET" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/ed70bcf535ff21f0f82cf302c6476ed100b47a94/dotnet/aspnet.svg">&nbsp;&nbsp;
   <img align="center" alt="PHP" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/d156b9fea516747f053fbf092867898d26bc88f5/php/php.svg">&nbsp;&nbsp;
-  <img align="center" alt="dotNET" height="44" src="https://github.com/user-attachments/assets/cdedfe30-f2d4-4853-b615-5d59d8ac8835">&nbsp;
-  <img align="center" alt="CSharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="CPlusPlus" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C" height="55" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
-  <img align="center" alt="Python" height="54" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg">&nbsp;
+  <img align="center" alt="Laravel" height="45" src="https://github.com/user-attachments/assets/65ca91eb-882f-4904-b0ec-2d259bb83813" />&nbsp;&nbsp;
   <img align="center" alt="MySQL" height="48" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">&nbsp;&nbsp;
   <img align="center" alt="MongoDB" height="48" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg">
 
