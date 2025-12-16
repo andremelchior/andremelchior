@@ -42,7 +42,7 @@
   
   <img align="center" title="C#" alt="CSharp" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
   <img align="center" title=".NET" alt="dotNET" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/18beda83f24f9bab253ed26b1303766b25769dc7/dotnet/dotnet.svg">&nbsp;&nbsp;
-  <img align="center" title="ASP.NET Core" alt="ASP.NET" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/35b7359374cef2e9e019a6cc77b6facdee893eaa/dotnet/asp-dotnet.svg">&nbsp;&nbsp;
+  <img align="center" title="ASP.NET Core" alt="ASP.NET" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/202999d0ac68a64b9e056ae8c9c1d3b5c66e7ead/dotnet/aspnet.svg">&nbsp;&nbsp;
   <img align="center" title="Entity Framework Core" alt="EF Core" height="45" src="https://github.com/andremelchior/Langs-Icons/blob/main/dotnet/ef-core.png?raw=true">&nbsp;&nbsp;
   <img align="center" title="xUnit.net" alt="xUnit.net" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/ff0a2be6687a309b957a81c48601d8d3851c00ae/dotnet/xunit.svg">&nbsp;&nbsp;
   <img align="center" title="Moq" alt="Moq" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/ff0a2be6687a309b957a81c48601d8d3851c00ae/dotnet/moq.svg">&nbsp;&nbsp;
