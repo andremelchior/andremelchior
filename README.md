@@ -5,8 +5,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Andr%C3%A9!;Fullstack+Developer;.NET+Developer)](https://git.io/typing-svg)
 
   
-  <img height="156rem" src="https://github-readme-stats.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
+  <img height="156rem" src="https://github-readme-stats-sable-seven.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
 
   
 </div>
@@ -16,9 +16,9 @@
   #
 
   - 💻 Desenvolvedor **Fullstack** focado em tecnologias **.NET**
+  - 👨‍💻 Estagiário em Análise de Sistemas
   - 📚 Cursando superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz
   - 🎓 Formado em técnico de **Desenvolvimento de Sistemas** na Etec JK
-  - ⚙️ Estudante de Especialização Tech Foundation em Back-End no **Oracle Next Education**
 
   #
   
