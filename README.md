@@ -5,8 +5,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=20&lines=Hello%2C+i'm+Andr%C3%A9!;Fullstack+Developer;.NET+Developer)](https://git.io/typing-svg)
 
   
-  <img height="156rem" src="https://github-readme-stats-sable-seven.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F5&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior github stats"/> 
-  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,c,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
+  <img height="156rem" src="https://github-readme-stats-sable-seven.vercel.app/api?username=andremelchior&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9745F6&text_color=c9d1d9&bg_color=0d1117" alt="André Melchior Github stats"/> 
+  &nbsp;&nbsp;&nbsp;<img height="205rem" src="https://github-readme-stats-sable-seven.vercel.app/api/top-langs/?username=andremelchior&layout=compact&hide_border=true&hide=html,css,svg,markdown,sql&title_color=9745f5&text_color=FFFFFF&bg_color=0d1117&langs_count=8" />
 
   
 </div>
@@ -40,7 +40,7 @@
 
   #### .NET Skills:
   
-  <img align="center" title="C#" alt="CSharp" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
+  <img align="center" title="C#" alt="CSharp" height="46" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_C_sharp.png">&nbsp;&nbsp;
   <img align="center" title=".NET" alt="dotNET" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/18beda83f24f9bab253ed26b1303766b25769dc7/dotnet/dotnet.svg">&nbsp;&nbsp;
   <img align="center" title="ASP.NET Core" alt="ASP.NET" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/202999d0ac68a64b9e056ae8c9c1d3b5c66e7ead/dotnet/aspnet.svg">&nbsp;&nbsp;
   <img align="center" title="Entity Framework Core" alt="EF Core" height="45" src="https://github.com/andremelchior/Langs-Icons/blob/main/dotnet/ef-core.png?raw=true">&nbsp;&nbsp;
@@ -58,7 +58,8 @@
   <img align="center" alt="Laravel" height="44" src="https://github.com/user-attachments/assets/65ca91eb-882f-4904-b0ec-2d259bb83813" />&nbsp;&nbsp;
   <img align="center" alt="RabbitMQ" height="46" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RabbitMQ-Dark.svg">&nbsp;&nbsp;
   <img align="center" alt="MySQL" height="46" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">&nbsp;&nbsp;
-  <img align="center" alt="MongoDB" height="46" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg">
+  <img align="center" alt="MongoDB" height="46" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg">&nbsp;&nbsp;
+  <img align="center" alt="Redis" height="46" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg">
 
   #### Mobile Skills:
   
