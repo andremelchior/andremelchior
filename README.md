@@ -16,7 +16,7 @@
   #
 
   - 💻 Desenvolvedor **Fullstack** focado em tecnologias **.NET**
-  - 👨‍💻 Estagiário em Análise de Sistemas
+  - 👨‍💻 Estagiário em Desenvolvimento Fullstack
   - 📚 Cursando superior em **Desenvolvimento de Software Multiplataforma** na Fatec Luigi Papaiz
   - 🎓 Formado em técnico de **Desenvolvimento de Sistemas** na Etec JK
 
@@ -46,7 +46,6 @@
   <img align="center" title="Entity Framework Core" alt="EF Core" height="45" src="https://github.com/andremelchior/Langs-Icons/blob/main/dotnet/ef-core.png?raw=true">&nbsp;&nbsp;
   <img align="center" title="xUnit.net" alt="xUnit.net" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/ff0a2be6687a309b957a81c48601d8d3851c00ae/dotnet/xunit.svg">&nbsp;&nbsp;
   <img align="center" title="Moq" alt="Moq" height="45" src="https://raw.githubusercontent.com/andremelchior/Langs-Icons/ff0a2be6687a309b957a81c48601d8d3851c00ae/dotnet/moq.svg">&nbsp;&nbsp;
-  <img align="center" title="AutoMapper" alt="AutoMapper" height="45" src="https://avatars.githubusercontent.com/u/890883?s=280&v=4">&nbsp;&nbsp;
   <img align="center" title="FluentValidation" alt="FluentValidation" height="46" src="https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.1.1/icon">&nbsp;&nbsp;
   <img align="center" title="Ocelot" alt="Ocelot" height="46" src="https://raw.githubusercontent.com/ThreeMammals/Ocelot/refs/heads/assets/images/ocelot_logo.png">&nbsp;&nbsp;
 
@@ -72,8 +71,8 @@
 <div align="center">
 <br>
   
-  <a href="https://www.youtube.com/@andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@andrasdev" target="_blank"><img height="27" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/andrasbh" target="_blank"><img height="27" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andras.dev" target="_blank"><img height="27" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andremelchior/" target="_blank"><img height="27" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
